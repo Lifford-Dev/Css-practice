@@ -1,0 +1,38 @@
+body{
+    font-family: sans-serif;
+    background: #eeecd3;
+
+}
+ .Form{
+    margin: 30px;font-size: 23px;
+}
+h2{
+    margin: 30px;text-align: center;
+}
+.main{
+    margin: 70px;
+    background: #ffff;
+    border: 1px solid black;
+}
+.first-fieldset{
+    margin: 30px;
+}
+.my-label{
+    margin: 10px;
+    font-size: 15px;
+}
+.second-fieldset{
+    margin: 30px;
+}
+.third-fieldset{
+    margin: 30px;
+}
+.forth-fieldset{
+    margin: 30px;
+}
+#file{
+    display: none;
+}
+#boy{
+    color:white;background-color: red;
+}
